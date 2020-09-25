@@ -28,9 +28,10 @@
 #menu-items {
 	float: right;
 }
- #main-content {
- 	text-align: center;
- 	padding: 25px;
+ #main-content h2 {
+ 	padding: 20px;
+ 	position: relative;
+ 	margin-top: 100px;
  }
 
  .box {
@@ -46,8 +47,6 @@
 }
  .meat h3 {
  	position: relative;
- 	text-align: center;
-
  }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
